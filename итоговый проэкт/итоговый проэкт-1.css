@@ -1,0 +1,44 @@
+body{
+    background-color: wheat;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 1200px;
+    border: 5px solid rgba(0, 0, 0, 0.479);
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+i{
+    color: blue;
+}
+b{
+    color: orangered;
+}
+button{
+    color: teal;
+}
+h2{
+    color: navy;
+    width: 250px;
+    border:1px solid brown;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: powderblue;
+}
+h1{
+    color: maroon;
+    font-family: 'Times New Roman', Times, serif;
+    width: 500px;
+    border: 2px solid black;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: palegreen;
+}
+button{
+    background-color: sandybrown;
+    width: 123px;
+    height: 40px;
+}
+
